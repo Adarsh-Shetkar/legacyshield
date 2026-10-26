@@ -2,6 +2,8 @@
 
 An autonomous, multi-agent AI pipeline that modernizes and security-hardens legacy code, built as a native VS Code extension.
 
+<img src="https://github.com/Adarsh-Shetkar/legacyshield/blob/main/img/Screenshot%202026-10-24%20at%202.45.10%E2%80%AFPM.png"></img>
+
 ## Inspiration
 
 The recent "PHP2Shell" crisis (CVE-2026-109618 and CVE-2026-109619) exposed millions of legacy installations to remote code execution, proving that unpatched legacy software is a massive financial and security liability. From experience building enterprise application architecture at JPMorgan Chase, migrating legacy code is rarely just about updating syntax—it is a critical security mandate where a single unchecked string can result in a catastrophic data breach. This inspired LegacyShield: a tool to automate the modernization and security hardening of outdated enterprise codebases without leaving the developer environment.
